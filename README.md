@@ -3,4 +3,4 @@
 
 [Get PDF](https://github.com/kevinsantana11/resume/raw/main/kevin_santana-resume-latest.pdf)
 
-![Resume](./kevin_santana-resume-latest.png)
+![Resume](./kevin_santana-resume-latest.jpeg)
